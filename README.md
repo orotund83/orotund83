@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @orotund83
 - 👀 I’m interested in my new flipper zero
-- 🌱 I’m currently learning powershell scripting
+- 🌱 I’m currently learning a little bit about powershell
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me ...
 
